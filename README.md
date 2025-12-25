@@ -62,7 +62,7 @@ Open S3 service
 Create a new bucket
 
 
-Unique bucket name
+Name of the bucket--> my-portfolio-user123
 
 
 Region selected
@@ -101,7 +101,7 @@ Publicly accessible via S3 website endpoint
 
 ✨cloud front link
 
-dqa15wfon8vbo.cloudfront.net
+http://dqa15wfon8vbo.cloudfront.net/
 
 -----------------------------------------------------------
 
