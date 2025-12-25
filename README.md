@@ -99,6 +99,9 @@ Static website successfully hosted on AWS S3
 
 Publicly accessible via S3 website endpoint
 
+cloud front link
+dqa15wfon8vbo.cloudfront.net
+
 -----------------------------------------------------------
 
 ✅ Use Cases
