@@ -1,17 +1,110 @@
-📂S3 website(origin)
-http://my-portfolio-user123.s3-website-us-east-1.amazonaws.com
+🌐 Static Website Hosting Using AWS S3
 
-📂files included
-. index.html
-. style.css
+📌 Project Overview
+This project demonstrates how to host a static website using Amazon S3 (Simple Storage Service).
+The website is built using HTML and CSS and deployed on AWS S3 with static website hosting enabled.
 
-🪓 AWS services used
-. Amazon S3
-. Amazon cloudfront
+🎯 Objective
 
-✨ Author
-cloud computing enthusiast
-Email: dharaniboominathan21@gmail.com
+To understand AWS S3 bucket creation
 
-# s3-static-website-project
-This respiratory contains a basic static website built with HTML and hosted on AWS S3. The project includes bucket creation, uploading index.html, enabling static website hosting and accessing the site through S3 endpoint.
+
+To host a static website without using servers
+
+
+To learn public access configuration and bucket policies
+
+
+
+🛠️ Technologies Used
+
+
+AWS S3
+
+
+HTML
+
+
+CSS
+
+
+AWS Management Console
+
+
+
+📂 Project Structure
+static-website-s3/
+│
+├── index.html
+├── css/
+│   └── style.css
+└── assets/
+    └── images/
+
+
+⚙️ Steps to Deploy the Website
+
+
+Login to AWS Management Console
+
+
+Open S3 service
+
+
+Create a new bucket
+
+
+Unique bucket name
+
+
+Region selected
+
+
+Disable “Block all public access”
+
+
+
+
+Upload website files (index.html, CSS, images)
+
+
+Enable Static Website Hosting
+
+
+Index document: index.html
+
+
+Error document: error.html
+
+
+
+
+Add Bucket Policy to allow public access
+
+
+Access the website using the S3 website endpoint URL
+
+
+
+
+
+
+🌍 Output
+
+
+Static website successfully hosted on AWS S3
+
+
+Publicly accessible via S3 website endpoint
+
+
+
+✅ Use Cases
+
+Personal portfolio website
+
+
+
+
+
+
